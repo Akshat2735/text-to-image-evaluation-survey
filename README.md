@@ -15,6 +15,8 @@ Submissions are stored in `results.json` and the provided assets are served from
 
 - [Main document](main_document.md)
 - [One-page report](one_page_report.md)
+- [Simulated main document draft](main_document_simulated.md)
+- [Simulated one-page report draft](one_page_report_simulated.md)
 
 ## Hosting
 
